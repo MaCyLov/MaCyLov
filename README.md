@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Rui Ma (马瑞)
 
-🎓 Intelligent Science & Technology @ BUPT&QMUL
+🎓 Intelligent Science & Technology @ BUPT
+
 🤝 Joint Program with Queen Mary University of London & Beijing University of Post and Telecommunication 
+
 🔍 Focus on Product Thinking · AI + Education · Full-Stack Collaboration  
 
 ---
