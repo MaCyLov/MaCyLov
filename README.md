@@ -10,9 +10,11 @@
 
 ## 🧠 About Me
 
-- 💬 I enjoy turning ideas into prototypes and solving real-world problems through technology.
-- ✨ Interested in **AI-powered educational tools**, **data-driven decision making**, and **interactive system design**.
-- 👥 Experienced in cross-functional collaboration using Git, Feishu, and Figma.
+💬 I enjoy turning ideas into prototypes and solving real-world problems through technology.
+
+✨ Interested in **AI-powered educational tools**, **data-driven decision making**, and **interactive system design**.
+
+👥 Experienced in cross-functional collaboration using Git, Feishu, and Figma.
 
 ---
 
