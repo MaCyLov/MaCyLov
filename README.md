@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Rui Ma (马瑞)
 
-<!--
-**MaCyLov/MaCyLov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Intelligent Science & Technology @ BUPT&QMUL
+🤝 Joint Program with Queen Mary University of London  
+🔍 Focus on AI + EdTech | Product Thinking | Team Collaboration  
 
-Here are some ideas to get you started:
+## 🔗 Featured Projects
+- 🎮 [AI-Powered Education Game Platform](https://github.com/MaCyLov/ai-edu-game-platform)  
+  *Course Project | Product Design + Figma Prototype + Git-based Collaboration*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 [SpringBoot CRUD Demo](https://github.com/MaCyLov/springboot-crud-demo)  
+  *Internship Project | Backend Logic + Frontend Interaction*
+
+📫 Contact: marui@bupt.edu.cn
