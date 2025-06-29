@@ -48,8 +48,8 @@
 
 ## 📄 Resume
 
-- 📄 [中文简历 – 产品经理方向 (PM)](https://github.com/MaCyLov/resume/blob/main/(PM)%20马瑞-中文简历2506.pdf)  
-- 📄 [中文简历 – 通用方向](https://github.com/MaCyLov/resume/blob/main/(通用)%20马瑞-中文简历2506.pdf)
+- 📄 [中文简历 – 产品经理方向 (PM)](https://github.com/MaCyLov/resume/(PM)20马瑞-中文简历2506.pdf)
+- 📄 [中文简历 – 通用方向](https://github.com/MaCyLov/resume/(通用)20马瑞-中文简历2506.pdf)
 
 ---
 
